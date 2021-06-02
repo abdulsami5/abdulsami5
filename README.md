@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdul Sami
 - 👀 I’m interested in programming, web development and product development.
 - 🌱 I’m currently learning python django and web dev practices.
-- 💞️ I’m looking to collaborate on anything that can hone my skills.
+- 💞️ I’m looking to collaborate in anything that can hone my skills.
 - 📫 Feel free to reach me out on my email abdulsami0522@gmail.com
 
 <!---
